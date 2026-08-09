@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=NabillDev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="NabillDev GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=NabillDev&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark" alt="NabillDev GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabillDev&theme=dark&hide_border=true" alt="NabillDev streak stats" height="165"/>
 </p>
 
