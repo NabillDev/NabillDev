@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nabil Syami Furqon</h1>
+<h3 align="center">Discord Bot & Minecraft Developer | Founder of Kapuluh Studio</h3>
 
-<!--
-**NabillDev/NabillDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NabillDev&label=Profile%20Views&color=6473C4&style=flat" alt="NabillDev" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  📍Indonesia &nbsp;•&nbsp; 💻 Active since 2022 &nbsp;•&nbsp; 🤖 AI Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🏢 Building **Kapuluh Studio**, where I build Discord bots and related tooling
+- 🛠️ Working across **frontend & backend**, mostly around Discord bots and Minecraft servers/plugins
+- 🎮 Also into **Minecraft server administration & plugin development** (Paper API, Spigot, EssentialsX)
+- 🌱 Currently building **Padel Music**, a free Discord music bot
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,sqlite,prisma,java,discordjs" alt="tech stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=NabillDev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="NabillDev GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabillDev&theme=dark&hide_border=true" alt="NabillDev streak stats" height="165"/>
+</p>
+
+---
+
+### 🎮 Discord Presence
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1195676714089578517?theme=dark" alt="Discord Presence" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://discord.com/users/1195676714089578517" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-6473C4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.instagram.com/nabil_syami/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
