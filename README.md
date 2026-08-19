@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍Indonesia &nbsp;•&nbsp; 💻 Active since 2022 &nbsp;•&nbsp; 🤖 AI Enthusiast
+  📍Indonesia &nbsp;•&nbsp; 🤖 AI Enthusiast
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 - 🏢 Building **Kapuluh Studio**, where I build Discord bots and related tooling
 - 🛠️ Working across **frontend & backend**, mostly around Discord bots and Minecraft servers/plugins
-- 🎮 Also into **Minecraft server administration & plugin development** (Paper API, Spigot, EssentialsX)
+- 🎮 Also into **Minecraft server administration & plugin development**
 - 🌱 Currently building **Padel Music**, a free Discord music bot
 
 ---
@@ -33,14 +33,6 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=NabillDev&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="NabillDev GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabillDev&theme=dark&hide_border=true" alt="NabillDev streak stats" height="165"/>
-</p>
-
----
-
-### 🎮 Discord Presence
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1195676714089578517?theme=dark" alt="Discord Presence" />
 </p>
 
 ---
